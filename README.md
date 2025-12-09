@@ -102,7 +102,7 @@ cmake --build build --config Debug
 运行：
 build/Debug/PegSolitaire.exe
 
-📌 6. Architecture Design（架构设计）
+6. Architecture Design（架构设计）
 
 EN
 The project follows a clean separation between:
