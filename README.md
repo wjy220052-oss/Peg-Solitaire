@@ -1,3 +1,6 @@
+Peg Solitaire Tactical Edition
+孔明棋战术版
+
 1. Overview（项目概述）
 
 EN
